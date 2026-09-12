@@ -1,0 +1,14 @@
+{
+  "name": "bot4151",
+  "main": "index.js",
+  "compatibility_date": "2026-09-01",
+  "triggers": {
+    "crons": ["*/5 * * * *"]
+  },
+  "kv_namespaces": [
+    {
+      "binding": "KV",
+      "id": "СЮДА_ВСТАВИТЬ_ID_KV"
+    }
+  ]
+}
