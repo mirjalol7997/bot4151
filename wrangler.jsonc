@@ -2,6 +2,9 @@
   "name": "bot4151",
   "main": "index.js",
   "compatibility_date": "2026-09-01",
+  "vars": {
+    "ADMIN_IDS": "8298108061"
+  },
   "triggers": {
     "crons": ["*/5 * * * *"]
   },
