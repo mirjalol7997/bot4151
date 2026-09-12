@@ -11,7 +11,7 @@
    ХРАНИЛИЩЕ (Settings → Bindings → KV namespace)
      Variable name: KV
    CRON (Settings → Trigger Events → Cron Trigger)
-     */5 * * * *
+     каждые 5 минут
    ЗАПУСК
      открыть https://ВАШ-WORKER.workers.dev/setup?key=WEBHOOK_SECRET
    ========================================================================== */
