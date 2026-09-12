@@ -5,10 +5,11 @@
   "triggers": {
     "crons": ["*/5 * * * *"]
   },
-  "kv_namespaces": [
+  "d1_databases": [
     {
-      "binding": "KV",
-      "id": "bda66bbf33b047af94d05e9d4296e1fc"
+      "binding": "DB",
+      "database_name": "bot4151",
+      "database_id": "e987400d-c515-40b9-a36f-1d0095f91060"
     }
   ]
 }
